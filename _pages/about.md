@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This new homepage is under construction now..."
+title: "Welcome to my NEW homepage! (Still under construction now) "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
