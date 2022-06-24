@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yan Dong"
+title                    : "Yan DONG / (Larry)"
 title_separator          : "-"
-name                     : &name "Yan (Larry) Dong"
+name                     : &name "Yan Dong"
 description              : &description "PhD student in HUST"
 url                      : https://larrydong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
