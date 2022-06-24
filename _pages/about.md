@@ -14,7 +14,7 @@ redirect_from:
 I'm a PhD student in State Key Laboratory of Digital Manufacturing Equipment and Technology, Huazhong University of Science and Technology (HUST). My research interests are in mobile robot perception: **SLAM** & **event-based vision**.
 
 ## Education
-I got my bachelor degree from School of Automation, Beijing Institute of Technology (BIT) in 2014 and my master's from Department of Automation, Tsinghua University (THU) in 2021. 
+I got my bachelor degree from School of Automation, Beijing Institute of Technology (BIT) in 2018 and my master's from Department of Automation, Tsinghua University (THU) in 2021. 
 
 ## Other information
 This new homepage style is pretty cool, but I have little thing to show. Hope I enrich my homepage with more modules & publications later. 
