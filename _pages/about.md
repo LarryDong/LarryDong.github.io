@@ -16,6 +16,6 @@ I'm a PhD student in State Key Laboratory of Digital Manufacturing Equipment and
 ## Education
 I got my bachelor degree from School of Automation, Beijing Institute of Technology (BIT) in 2018 and my master's from Department of Automation, Tsinghua University (THU) in 2021. 
 
-## Other information
-This new homepage style is pretty cool, but I have little thing to show. Hope I enrich my homepage with more modules & publications later. 
-
+## News
+- 2022.11.12 "Datasets" page was created. New publication and Event-based Rain Dataset were added.
+- 2022.06.24 A new homepage style!
