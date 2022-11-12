@@ -8,12 +8,12 @@ author_profile: true
 <!-- Just a simple markdown format. -->
 
 
-- <a name="Yang22JCA"></a>杨君宇, 董岩, 龙镇南, 杨新, 韩斌,  
-*基于事件相机的雨滴检测算法*，  
-计算机应用.（已录用）[dataset](https://github.com/juy005/event-rain-dataset)
 - <a name="Yang22JCA"></a>Yang, J., Dong, Y., Long, Z., Yang, X., Han, B.,  
+*基于事件相机的雨滴检测算法(Rain detection algorithm based on event camera)*，  
+计算机应用(Journal of Computer Applications).(Accepted on 2022.11) [dataset avaliable](https://github.com/juy005/event-rain-dataset)
+<!-- - <a name="Yang22JCA"></a>Yang, J., Dong, Y., Long, Z., Yang, X., Han, B.,  
 *Rain detection algorithm based on event camera*,  
-Journal of Computer Applications.(Accepted) [dataset](https://github.com/juy005/event-rain-dataset)
+Journal of Computer Applications.(Accepted) [dataset](https://github.com/juy005/event-rain-dataset) -->
 
 
 - <a name="Dong21ICMVA"></a>Dong, Y., Zhang, T.,  
