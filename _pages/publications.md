@@ -7,6 +7,15 @@ author_profile: true
 
 <!-- Just a simple markdown format. -->
 
+
+- <a name="Yang22JCA"></a>杨君宇, 董岩, 龙镇南, 杨新, 韩斌,  
+*基于事件相机的雨滴检测算法*，  
+计算机应用.（已录用）[dataset](https://github.com/juy005/event-rain-dataset)
+- <a name="Yang22JCA"></a>Yang, J., Dong, Y., Long, Z., Yang, X., Han, B.,  
+*Rain detection algorithm based on event camera*,  
+Journal of Computer Applications.(Accepted) [dataset](https://github.com/juy005/event-rain-dataset)
+
+
 - <a name="Dong21ICMVA"></a>Dong, Y., Zhang, T.,  
 *[Standard and Event Cameras Fusion for Feature Tracking](https://dl.acm.org/doi/10.1145/3459066.3459075)*,  
 In 2021 International Conference on Machine Vision and Applications (ICMVA 2021), 2021. [Code](https://github.com/LarryDong/FusionTracking)
