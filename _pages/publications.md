@@ -7,6 +7,9 @@ author_profile: true
 
 <!-- Just a simple markdown format. -->
 
+- <a name="Lin23T"></a>Han, B., Lin, Y., Dong, Y., Wang, H., Zhang, T., Liang, C.,  
+*[Camera Attributes Control for Visual Odometry With Motion Blur Awareness](https://ieeexplore.ieee.org/document/10040760)*,  
+IEEE/ASME Transactions on Mechatronics (T-MECH), 2023. 
 
 - <a name="Yang22JCA"></a>Yang, J., Dong, Y., Long, Z., Yang, X., Han, B.,  
 *基于事件相机的雨滴检测算法(Rain detection algorithm based on event camera)*，  
