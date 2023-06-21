@@ -7,6 +7,11 @@ author_profile: true
 
 <!-- Just a simple markdown format. -->
 
+- <a name="Li23ICIRA"></a>Li, W., Dong, Y., Han, B.,  
+*[Hardware-Free Event Cameras Temporal Synchronization Based on Event Density Alignment]()*,  
+The 16th International Conference on Intelligent Robotics and Applications (ICIRA), 2023.  
+
+
 - <a name="Lin23T"></a>Han, B., Lin, Y., Dong, Y., Wang, H., Zhang, T., Liang, C.,  
 *[Camera Attributes Control for Visual Odometry With Motion Blur Awareness](https://ieeexplore.ieee.org/document/10040760)*,  
 IEEE/ASME Transactions on Mechatronics (T-MECH), 2023. 
