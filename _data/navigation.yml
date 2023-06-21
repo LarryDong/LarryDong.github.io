@@ -6,6 +6,9 @@ main:
   - title: "Datasets"
     url: /datasets/    
 
+  - title: "Patents"
+    url: /patents/
+
   # - title: "Teaching"
   #   url: /teaching/    
     
