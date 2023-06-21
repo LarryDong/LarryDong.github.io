@@ -36,3 +36,5 @@ In 2021 International Conference on Machine Vision and Applications (ICMVA 2021)
 *[A Real-Time Algorithm for Multiple Data Matrix Codes Localization](https://link.springer.com/chapter/10.1007/978-981-15-8155-7_208)*,  
 Advances in Guidance, Navigation and Control . Lecture Notes in Electrical Engineering, vol 644. Springer, Singapore.
 
+
+*Last updated on 2023.06.21.*
