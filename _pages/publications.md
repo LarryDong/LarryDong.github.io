@@ -17,7 +17,7 @@ The 16th International Conference on Intelligent Robotics and Applications (ICIR
 IEEE/ASME Transactions on Mechatronics (T-MECH), 2023. 
 
 - <a name="Yang22JCA"></a>Yang, J., Dong, Y., Long, Z., Yang, X., Han, B.,  
-*基于事件相机的雨滴检测算法(Rain detection algorithm based on event camera)*，  
+*[基于事件相机的雨滴检测算法(Rain detection algorithm based on event camera)](http://www.joca.cn/CN/10.11772/j.issn.1001-9081.2022091360)*，  
 计算机应用(Journal of Computer Applications).(Accepted on 2022.11) [dataset avaliable](https://github.com/juy005/event-rain-dataset)
 <!-- - <a name="Yang22JCA"></a>Yang, J., Dong, Y., Long, Z., Yang, X., Han, B.,  
 *Rain detection algorithm based on event camera*,  
