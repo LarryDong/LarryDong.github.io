@@ -9,8 +9,9 @@ author_profile: true
 
 
 - <a name="Dong25RAL"></a>Dong, Y., Xu, E., Qiu, S., Li, W., Liu, Y., Han, B.,  
-*Vibration-aware Lidar-Inertial Odometry based on Point-wise Post-Undistortion Uncertainty*,  
-IEEE Robotics and Automation Letters (RA-L), 2025. 
+*[Vibration-aware Lidar-Inertial Odometry based on Point-wise Post-Undistortion Uncertainty](https://ieeexplore.ieee.org/document/11078440)*,  
+IEEE Robotics and Automation Letters (RA-L), 2025. [PDF](https://www.researchgate.net/publication/393446589_Vibration-aware_Lidar-Inertial_Odometry_based_on_Point-wise_Post-Undistortion_Uncertainty)
+
 
 
 - <a name="Li23ICIRA"></a>Li, W., Dong, Y., Han, B.,  
@@ -43,4 +44,4 @@ In 2021 International Conference on Machine Vision and Applications (ICMVA 2021)
 Advances in Guidance, Navigation and Control . Lecture Notes in Electrical Engineering, vol 644. Springer, Singapore.
 
 
-*Last updated on 2025.07.01. Happy birthday to CPC*
+*Last updated on 2025.08.01. Happy birthday to PLA!*

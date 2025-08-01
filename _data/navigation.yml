@@ -3,11 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Patents"
+    url: /patents/
+
   - title: "Datasets"
     url: /datasets/    
 
-  - title: "Patents"
-    url: /patents/
+  - title: "Gallery"
+    url: /gallery/
 
   # - title: "Teaching"
   #   url: /teaching/    
