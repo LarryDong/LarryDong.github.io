@@ -13,18 +13,18 @@ I'm a body-builder, badminton-lover, running-lover. Hope that I can work for the
 
 
 <figure>
-  <img src="/images/my_image/bodybuilder.jpg" width="480" alt="exercising photo">
+  <img src="/images/my_image/bodybuilder.jpg" style="width: 720px;"  alt="exercising photo">
   <figcaption>work out at the gym</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/my_image/runner.jpg" width="480" alt="running photo">
+  <img src="/images/my_image/runner.jpg" style="width: 720px;"  alt="running photo">
   <figcaption>Running by the lake at night</figcaption>
 </figure>
 
 
 <figure>
-  <img src="/images/my_image/pingpong.jpg" width="480" alt="pingpong photo">
+  <img src="/images/my_image/pingpong.jpg" style="width: 720px;"  alt="pingpong photo">
   <figcaption>Playing ping-poing when I'm REALLY young</figcaption>
 </figure>
 
